@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Vishwas Singh
 
 
-- 🔭 I’m currently working on NodeJs
+- 🔭 I’m currently working on Node.Js
 - 🌱 I’m currently learning WebDev
 - 👯 I’m looking to collaborate on some WebDev projects
 - 📫 How to reach me:  **031vishwas@gmail.com.**
