@@ -5,10 +5,6 @@
 - 👯 I’m looking to collaborate on some WebDev projects
 - 📫 How to reach me:  **031vishwas@gmail.com.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vishwas-singh-3623881b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kunaljain0212" height="30" width="40" /></a>
-<a href="https://www.instagram.com/the_vishwas031/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_kunaaaaalll" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -24,3 +20,21 @@
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
    </p>
+
+<div align="center">
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwas031&show_icons=true) 
+<!--  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kailash360)   -->
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishwas031)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas031)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vishwas-singh-3623881b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kunaljain0212" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_vishwas031/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_kunaaaaalll" height="30" width="40" /></a>
+
+
