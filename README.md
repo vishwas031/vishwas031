@@ -21,20 +21,23 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
    </p>
 
-<div align="center">
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwas031&show_icons=true) 
-<!--  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kailash360)   -->
+<br/>
+    <a href="https://github.com/vishwas031/github-readme-stats"><img alt="Vishwas Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishwas031&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/vishwas031/github-readme-stats"><img alt="Vishwas Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas031&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vishwas031)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas031)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
+
+<br/>
+<br/>
+
+<a href="https://github.com/vishwas031/github-readme-activity-graph"><img alt="Vishwas Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishwas031&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vishwas-singh-3623881b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kunaljain0212" height="30" width="40" /></a>
-<a href="https://www.instagram.com/the_vishwas031/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_kunaaaaalll" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishwas-singh-3623881b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishwas-singh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_vishwas031/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the_vishwas031" height="30" width="40" /></a>
 
 
