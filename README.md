@@ -6,6 +6,12 @@
 - 📫 How to reach me:  **031vishwas@gmail.com.**
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/vishwas-singh-3623881b7/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="vishwas-singh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_vishwas031/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="the_vishwas031" height="30" width="30" /></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -32,13 +38,6 @@
 
 <a href="https://github.com/vishwas031/github-readme-activity-graph"><img alt="Vishwas Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishwas031&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-  <a href="https://www.linkedin.com/in/vishwas-singh-3623881b7/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="vishwas-singh" height="30" width="40" /></a>
-<a href="https://www.instagram.com/the_vishwas031/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="the_vishwas031" height="30" width="30" /></a>
 
 
