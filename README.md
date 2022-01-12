@@ -5,7 +5,7 @@
 
 
 - 👯 I’m looking to contribute on some WebDev projects
-- 📫 How to reach me:  **031vishwas@gmail.com.**
+- 📫 How to reach me:  **031vishwas@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
