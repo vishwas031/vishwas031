@@ -29,5 +29,5 @@
 
   <a href="https://github.com/vishwas031?tab=followers"><img src="https://img.shields.io/github/followers/vishwas031?label=Followers&style=social" alt="GitHub Badge"></a>
   
-<!-- <a href="https://github.com/vishwas031/github-readme-activity-graph"><img alt="Vishwas Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishwas031&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>  
- -->
+<a href="https://github.com/vishwas031/github-readme-activity-graph"><img alt="Vishwas Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishwas031&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>  
+
