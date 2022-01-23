@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 
 
-- 👯 I’m looking to contribute on some WebDev projects
+- 👯 I’m looking to contribute on some React projects
 - 📫 How to reach me:  **031vishwas@gmail.com**
 
 
