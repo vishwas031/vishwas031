@@ -36,9 +36,11 @@
   <p align="center">  
   <a href="https://github.com/vishwas031/github-readme-stats"><img alt="Vishwas Singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishwas031&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
-  <p align="center"> 
-  <a href="https://github.com/vishwas031/github-readme-stats"><img alt="Vishwas Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas031&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </p>
+<!--   <p align="center"> 
+40
+  <a href="https://github.com/vishwas031/github-readme-stats"><img alt="Vishwas Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas031&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+41
+  </p> -->
 <!-- 
   <a href="https://github.com/vishwas031?tab=followers"><img src="https://img.shields.io/github/followers/vishwas031?label=Followers&style=social" alt="GitHub Badge"></a> -->
   
